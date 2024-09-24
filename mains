@@ -1,0 +1,7 @@
+\\working now
+\\hello.js
+console.log("Hello, World!");
+git add hello.js
+git commit -m "add hello world script"
+git push origin main
+node hello.js
